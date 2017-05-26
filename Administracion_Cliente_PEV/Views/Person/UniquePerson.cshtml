@@ -1,0 +1,73 @@
+﻿@model  PA.BusinessEntity.Base.Person 
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>UniquePerson</title>
+</head>
+<body>
+    <form>
+        <p>ID de la persona</p><input name="BusinessEntityID"  maxlength="6"/>+
+        <button>Procesar Persona</button>
+        <div>
+
+            <table class="table" border="1">
+                <tr>
+                    <th>BusinessEntityID</th>
+                    <th>PersonType</th>
+                    <th>NameStyle</th>
+                    <th>Title</th>
+                    <th>FirstName</th>
+                    <th>MiddleName</th>
+                    <th>LastName</th>
+                    <th>Suffix</th>
+                    <th>EmailPromotion</th>
+                    <th>AdditionalContactInfo</th>
+                    <th>Demographics</th>
+                    <th>rowguid</th>
+                    <th>ModifiedDate</th>
+                </tr>
+
+
+                <tr>
+                    <td>@Model.BusinessEntityID</td>
+                    <td>@Model.PersonType</td>
+                    <td>@Model.NameStyle</td>
+                    <td>@Model.Title</td>
+                    <td>@Model.FirstName</td>
+                    <td>@Model.MiddleName</td>
+                    <td>@Model.LastName</td>
+                    <td>@Model.Suffix</td>
+                    <td>@Model.EmailPromotion</td>
+                    <td>@Model.AdditionalContactInfo</td>
+                    <td>@Model.Demographics</td>
+                    <td>@Model.rowguid</td>
+                    <td>@Model.ModifiedDate</td>
+                </tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            </table>
+
+        </div>
+    </form>
+</body>
+</html>

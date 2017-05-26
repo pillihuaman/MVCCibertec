@@ -1,0 +1,59 @@
+﻿@model IEnumerable<PA.BusinessEntity.Base.Person>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<table class="table">
+    <tr>
+        <th>BusinessEntityID</th>
+        <th>PersonType</th>
+        <th>NameStyle</th>
+        <th>Title</th>
+        <th>FirstName</th>
+        <th>MiddleName</th>
+        <th>LastName</th>
+        <th>Suffix</th>
+        <th>EmailPromotion</th>
+        <th>AdditionalContactInfo</th>
+        <th>Demographics</th>
+        <th>rowguid</th>
+        <th>ModifiedDate</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.BusinessEntityID</td>
+            <td>@item.PersonType</td>
+            <td>@item.NameStyle</td>
+            <td>@item.Title</td>
+            <td>@item.FirstName</td>
+            <td>@item.MiddleName</td>
+            <td>@item.LastName</td>
+            <td>@item.Suffix</td>
+            <td>@item.EmailPromotion</td>
+            <td>@item.AdditionalContactInfo</td>
+            <td>@item.Demographics</td>
+            <td>@item.rowguid</td>
+            <td>@item.ModifiedDate</td>
+        </tr>
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</table>
+
+
+

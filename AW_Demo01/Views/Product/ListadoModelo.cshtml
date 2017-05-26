@@ -1,0 +1,33 @@
+﻿
+@model IEnumerable<AW_Demo01.Models.Product>
+
+<form>
+    <label>Filtrar por nombre</label>
+    <input name="FilterByName" />
+    <button> Buscar</button>
+</form>
+<br />
+<table class="table">
+    <tr>
+        <th>Codigo</th>
+        <th>nombre</th>
+        <th>Precio</th>
+        <th>Stock</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.ID</td>
+            <td>@item.Name</td>
+            <td>@item.Price</td>
+            <td>@item.Stock</td>
+        </tr>
+
+    }
+
+
+
+
+
+</table>

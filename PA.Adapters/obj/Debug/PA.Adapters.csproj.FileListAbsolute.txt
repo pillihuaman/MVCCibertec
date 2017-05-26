@@ -1,0 +1,12 @@
+G:\Ciberte_WEB_C#\Ciberte_WEB_C#\Alumno\Capítulo 1\Capacitacion_MVC\AW_Demo01\PA.Adapters\bin\Debug\PA.Adapters.dll
+G:\Ciberte_WEB_C#\Ciberte_WEB_C#\Alumno\Capítulo 1\Capacitacion_MVC\AW_Demo01\PA.Adapters\bin\Debug\PA.Adapters.pdb
+G:\Ciberte_WEB_C#\Ciberte_WEB_C#\Alumno\Capítulo 1\Capacitacion_MVC\AW_Demo01\PA.Adapters\obj\Debug\PA.Adapters.csprojResolveAssemblyReference.cache
+G:\Ciberte_WEB_C#\Ciberte_WEB_C#\Alumno\Capítulo 1\Capacitacion_MVC\AW_Demo01\PA.Adapters\obj\Debug\PA.Adapters.dll
+G:\Ciberte_WEB_C#\Ciberte_WEB_C#\Alumno\Capítulo 1\Capacitacion_MVC\AW_Demo01\PA.Adapters\obj\Debug\PA.Adapters.pdb
+G:\Ciberte_WEB_C#\Ciberte_WEB_C#\Alumno\Capítulo 1\Capacitacion_MVC\AW_Demo01\PA.Adapters\bin\Debug\PA.Adapters.dll.config
+D:\Ciberte_WEB_C#\Ciberte_WEB_C#\Alumno\Capítulo 1\Capacitacion_MVC\AW_Demo01\PA.Adapters\bin\Debug\PA.Adapters.dll.config
+D:\Ciberte_WEB_C#\Ciberte_WEB_C#\Alumno\Capítulo 1\Capacitacion_MVC\AW_Demo01\PA.Adapters\bin\Debug\PA.Adapters.dll
+D:\Ciberte_WEB_C#\Ciberte_WEB_C#\Alumno\Capítulo 1\Capacitacion_MVC\AW_Demo01\PA.Adapters\bin\Debug\PA.Adapters.pdb
+D:\Ciberte_WEB_C#\Ciberte_WEB_C#\Alumno\Capítulo 1\Capacitacion_MVC\AW_Demo01\PA.Adapters\obj\Debug\PA.Adapters.csprojResolveAssemblyReference.cache
+D:\Ciberte_WEB_C#\Ciberte_WEB_C#\Alumno\Capítulo 1\Capacitacion_MVC\AW_Demo01\PA.Adapters\obj\Debug\PA.Adapters.dll
+D:\Ciberte_WEB_C#\Ciberte_WEB_C#\Alumno\Capítulo 1\Capacitacion_MVC\AW_Demo01\PA.Adapters\obj\Debug\PA.Adapters.pdb

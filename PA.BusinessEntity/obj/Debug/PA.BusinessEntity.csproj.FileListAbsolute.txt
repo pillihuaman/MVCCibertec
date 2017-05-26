@@ -1,0 +1,8 @@
+G:\Ciberte_WEB_C#\Ciberte_WEB_C#\Alumno\Capítulo 1\Capacitacion_MVC\AW_Demo01\PA.BusinessEntity\bin\Debug\PA.BusinessEntity.dll
+G:\Ciberte_WEB_C#\Ciberte_WEB_C#\Alumno\Capítulo 1\Capacitacion_MVC\AW_Demo01\PA.BusinessEntity\bin\Debug\PA.BusinessEntity.pdb
+G:\Ciberte_WEB_C#\Ciberte_WEB_C#\Alumno\Capítulo 1\Capacitacion_MVC\AW_Demo01\PA.BusinessEntity\obj\Debug\PA.BusinessEntity.dll
+G:\Ciberte_WEB_C#\Ciberte_WEB_C#\Alumno\Capítulo 1\Capacitacion_MVC\AW_Demo01\PA.BusinessEntity\obj\Debug\PA.BusinessEntity.pdb
+D:\Ciberte_WEB_C#\Ciberte_WEB_C#\Alumno\Capítulo 1\Capacitacion_MVC\AW_Demo01\PA.BusinessEntity\bin\Debug\PA.BusinessEntity.dll
+D:\Ciberte_WEB_C#\Ciberte_WEB_C#\Alumno\Capítulo 1\Capacitacion_MVC\AW_Demo01\PA.BusinessEntity\bin\Debug\PA.BusinessEntity.pdb
+D:\Ciberte_WEB_C#\Ciberte_WEB_C#\Alumno\Capítulo 1\Capacitacion_MVC\AW_Demo01\PA.BusinessEntity\obj\Debug\PA.BusinessEntity.dll
+D:\Ciberte_WEB_C#\Ciberte_WEB_C#\Alumno\Capítulo 1\Capacitacion_MVC\AW_Demo01\PA.BusinessEntity\obj\Debug\PA.BusinessEntity.pdb
